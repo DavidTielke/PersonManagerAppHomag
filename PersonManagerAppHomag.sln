@@ -3,7 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsleClient", "ConsleClient\ConsleClient.csproj", "{CCADD125-1A85-4DC7-B5DA-F3B95CBD8C7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E8AF12D-1E2A-4BE6-AFA1-50D950A824B4}"
+	ProjectSection(SolutionItems) = preProject
+		Namensmuster.txt = Namensmuster.txt
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCADD125-1A85-4DC7-B5DA-F3B95CBD8C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCADD125-1A85-4DC7-B5DA-F3B95CBD8C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCADD125-1A85-4DC7-B5DA-F3B95CBD8C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCADD125-1A85-4DC7-B5DA-F3B95CBD8C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

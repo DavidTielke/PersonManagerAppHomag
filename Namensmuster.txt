@@ -1,0 +1,18 @@
+## Komponenten
+# *Management
+# *Storing
+# DataClasses
+
+## Klassen
+# Manager
+	- Add
+	- Remove
+	- Update
+	- Get*
+# Repository
+	- Insert
+	- Update
+	- Delete
+	- Query
+# Parser
+	- Parse
